@@ -1,4 +1,10 @@
-# {{COMPANY_NAME}} Brand Guide for Presentations
+---
+name: enterprise_platform-brand
+description: >
+  | Role | Hex | Usage | | **Primary dark** | `#1E1244` | All headings, primary body text, dark backgrounds | Use this skill when working with enterprise_platform brand tasks or workflows.
+---
+
+# Enterprise Platform Brand Guide for Presentations
 
 ## Colors
 
@@ -27,7 +33,7 @@
 | Footer / caption | Calibri | 9–10pt | Regular | `#6B7280` |
 | Tagline ("For People, By People") | Calibri | 12pt | Regular | `#1E1244` |
 
-> Note: {{COMPANY_NAME}} uses a custom sans-serif in their brand materials (similar to Neue Haas Grotesk). Calibri is the closest system font match for PPTX generation.
+> Note: Enterprise Platform uses a custom sans-serif in their brand materials (similar to Neue Haas Grotesk). Calibri is the closest system font match for PPTX generation.
 
 ## Slide Dimensions
 
@@ -39,7 +45,7 @@
 ### Logo Treatment
 - Top-left on every slide (except full-bleed cover images)
 - Use the 'ä' monogram (small 'a' with umlaut-style dots) on content slides
-- Use full "{{COMPANY_NAME}}" wordmark on cover and section divider slides
+- Use full "Enterprise Platform" wordmark on cover and section divider slides
 - Three colored dots (purple, blue, green) appear above the icon
 
 ### Three-Dot Motif
@@ -53,7 +59,7 @@ The three-dot motif (●●●) appears in the bottom-right footer on content sl
 - Calibri, 11–12pt, `#1E1244`, right-aligned
 
 ### Footer (all content slides)
-- Left: "Confidential – Do not duplicate or distribute without written permission from {{COMPANY_NAME}}. Copyright ©2026 {{COMPANY_NAME}} Technology Solutions, Inc. All Rights Reserved."
+- Left: "Confidential – Do not duplicate or distribute without written permission from Enterprise Platform. Copyright ©2026 Enterprise Platform Technology Solutions, Inc. All Rights Reserved."
 - Right: "{{COMPANY_FILE}} + three colored dots
 - Font: 8–9pt, `#6B7280`
 - Horizontal rule above footer (1pt, `#D4C5F9`)
@@ -65,7 +71,7 @@ The three-dot motif (●●●) appears in the bottom-right footer on content sl
 - Large bold title: left side, vertically centered, `#1E1244`, 48–56pt
 - Subtitle (e.g., "Kickoff Brief", "Country Profile"): below title, 18pt regular
 - Photo or illustration: right half, with lavender (`#E8DEFF`) background block behind it
-- Full "{{COMPANY_NAME}}" wordmark top-left
+- Full "Enterprise Platform" wordmark top-left
 - Tagline top-right
 
 ### Two-Column / Section Slide (e.g., Agenda)
